@@ -16,8 +16,8 @@ function HomePage() {
             <Hero />
             <Awards />
             <Stats />
-            {/* <Pricing />
-            <Education /> */}
+            <Pricing />
+            <Education />
             <OpenAccount />
             <Footer />
         </>
