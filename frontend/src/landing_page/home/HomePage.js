@@ -13,8 +13,8 @@ function HomePage() {
     return (
         <>
             <Navbar />
-            <Hero />
-            <Awards />
+            {/* <Hero />
+            <Awards /> */}
             <Stats />
             <Pricing />
             <Education />
