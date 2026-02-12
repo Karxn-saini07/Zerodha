@@ -15,7 +15,7 @@ function HomePage() {
             <Navbar />
             <Hero />
             <Awards />
-            <Stats />
+            {/* <Stats /> */}
             <Pricing />
             <Education />
             <OpenAccount />
