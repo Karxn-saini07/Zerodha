@@ -12,7 +12,7 @@ function Awards() {
                         Largest stock broker in india
                     </h1>
                     <p className='mb-5'>
-                        2+ million Zerodha clients to over 15%  of the retail order volumes in india daily by trading and investing in: 
+                        {/* 2+ million Zerodha clients to over 15%  of the retail order volumes in india daily by trading and investing in:  */}
                     </p>
                     <div className='row'>
                         <div className='col-6'>
