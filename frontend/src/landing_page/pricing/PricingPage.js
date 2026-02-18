@@ -8,8 +8,8 @@ import Footer from '../Footer';
 function PricingPage() {
     return (
         <>
-            <Hero />
-            <Brokerage />
+            {/* <Hero />
+            <Brokerage /> */}
         </>
     );
 }
