@@ -10,6 +10,7 @@ function PricingPage() {
         <>
             <Hero />
             <Brokerage />
+
         </>
     );
 }
