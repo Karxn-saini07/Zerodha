@@ -22,8 +22,8 @@ function ProductPage() {
 
              <RightSection 
             imageURL="media/images/console.png" 
-            productName="Console" 
-            productDescription="The central dashboard for your Zerodha account. Gain insights into your trades and investments with in-depth reports and visualisations." 
+            // productName="Console" 
+            // productDescription="The central dashboard for your Zerodha account. Gain insights into your trades and investments with in-depth reports and visualisations." 
             learnMore="/learn-more" 
              />
 
